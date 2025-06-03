@@ -56,7 +56,7 @@ pip install -r requirements.txt
 python app.py
 
 
-Made with 💙 by **Ziad Hamada**
+By **Ziad Hamada**
 GitHub: **https://github.com/ZiadHamada**
 
 
