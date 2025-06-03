@@ -2,7 +2,7 @@
 
 This project designed for Network Intrusion Detection System using **one machine learning models** :DecisionTreeClassifier model. The model is deployed using FastAPI and Streamlit as interface.
 
----
+-----------------------------------------------------------------------------
 
 
 Report Classification
@@ -21,7 +21,7 @@ Confusion Matrix
  [     0  12769]]
 
 
----
+-----------------------------------------------------------------------------
 
 ## Pipeline Overview
 
@@ -39,28 +39,13 @@ Confusion Matrix
     - **Web Interface**: Streamlit — for users to detect attackers is found or not.
     - **FastAPI**: `POST /predict` — accepts POST requests.
 
----
-
-## How to Run Locally
-
-```bash
-# Step 1: Create a new environment
-conda create -n imdb_env python=3.9
-conda activate imdb_env
-
-# Step 2: Install dependencies
-pip install -r requirements.txt
-
-
-# Step 3: Run the app
-python app.py
-
+-----------------------------------------------------------------------------
 
 By **Ziad Hamada**
 GitHub: **https://github.com/ZiadHamada**
 
 
-
+-----------------------------------------------------------------------------
 
 Information about data
 Website of dataset: https://staff.itee.uq.edu.au/marius/NIDS_datasets/
